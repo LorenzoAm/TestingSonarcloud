@@ -3,7 +3,7 @@ jdk:
 - openjdk11
 addons:
   sonarcloud:
-      organization: LorenzoAm
+      organization: lorenzoam
       token: 6aa9c3036dcb0da2eb7305847570f1ba93c601ae
 script:
 - ant build
