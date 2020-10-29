@@ -4,7 +4,7 @@ jdk:
 addons:
 sonarcloud:
 organization: LorenzoAm
-token: aa1f5775dcd5f5af5bd77e90c5dc396599d32911
+token: 493536eb0a1a8e72a1a56d48f5477c575eda3bf8
 script:
 -ant build
 -sonar-scanner
